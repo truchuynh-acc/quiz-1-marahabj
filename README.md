@@ -5,11 +5,11 @@
 Please fill in the blank
 ```cplus
 /*
-* Name:
+* Name: marah abujabal
 */
 
 // Question: Create a C++ class representing a car with attributes like model, year, and color. Include a method to display car details.
-// Answer: --------------------------------------- here
+// Answer: here
 
 #include <iostream>
 #include <string>
@@ -18,10 +18,19 @@ class Car {
 public:
     std::string model;
     int year;
-
-
-    void displayDetails() {
+    
+    void display details() 
+    {
+     std :: cout getline  << age,color,model">>
+                
         std::cout << "Model: " << model << ", Year: " << year << ", Color: " << color << std::endl;
+    }
+};
+
+class Car {
+private:
+    std::string model;
+    int year;
     }
 };
 
